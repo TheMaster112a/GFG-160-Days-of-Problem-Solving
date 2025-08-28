@@ -33,15 +33,31 @@ The GFG 160 track is perfect because:
 
 ---
 
-## 📊 Progress Tracker  
-| Topic | Problems Solved | Status |
-|-------|-----------------|--------|
-| Arrays | 2 / 13 | 🚀 In Progress |
-| Strings | XX / XX | ⏳ Coming Soon |
-| Linked List | XX / XX | ⏳ Coming Soon |
-| Trees | XX / XX | ⏳ Coming Soon |
-| Graphs | XX / XX | ⏳ Coming Soon |
-| DP | XX / XX | ⏳ Coming Soon |
+## 📊 Progress Tracker
+
+| Topic                    | Problems Solved | Status |
+|-------------------------|-----------------|--------|
+| Arrays                  | 3 / 13          | 🚀 In Progress |
+| Strings                 | 0 / 7           | ⏳ Coming Soon |
+| Sorting                 | 0 / 7           | ⏳ Coming Soon |
+| Searching               | 0 / 8           | ⏳ Coming Soon |
+| Matrix                  | 0 / 6           | ⏳ Coming Soon |
+| Hashing                 | 0 / 9           | ⏳ Coming Soon |
+| Two Pointer Technique   | 0 / 10          | ⏳ Coming Soon |
+| Prefix Sum              | 0 / 4           | ⏳ Coming Soon |
+| Linked List             | 0 / 10          | ⏳ Coming Soon |
+| Recursion & Backtracking| 0 / 5           | ⏳ Coming Soon |
+| Tree                    | 0 / 15          | ⏳ Coming Soon |
+| Heap                    | 0 / 4           | ⏳ Coming Soon |
+| Stack                   | 0 / 9           | ⏳ Coming Soon |
+| Queue & Deque           | 0 / 2           | ⏳ Coming Soon |
+| Dynamic Programming     | 0 / 23          | ⏳ Coming Soon |
+| Greedy                  | 0 / 5           | ⏳ Coming Soon |
+| Graph                   | 0 / 17          | ⏳ Coming Soon |
+| Tries                   | 0 / 2           | ⏳ Coming Soon |
+| Bit Manipulation        | 0 / 4           | ⏳ Coming Soon |
+
+**Total:  / 160**
 
 *(I’ll keep updating this table as I move forward)*  
 
