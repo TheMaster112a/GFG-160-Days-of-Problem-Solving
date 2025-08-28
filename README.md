@@ -37,37 +37,26 @@ The GFG 160 track is perfect because:
 
 | Topic                    | Problems Solved | Status |
 |-------------------------|-----------------|--------|
-| Arrays                  | 0 / 13          | 🚀 In Progress |
-| Strings                 | 0 / 7           | ⏳ Coming Soon |
-| Sorting                 | 0 / 7           | ⏳ Coming Soon |
-| Searching               | 0 / 8           | ⏳ Coming Soon |
-| Matrix                  | 0 / 6           | ⏳ Coming Soon |
-| Hashing                 | 0 / 9           | ⏳ Coming Soon |
-| Two Pointer Technique   | 0 / 10          | ⏳ Coming Soon |
-| Prefix Sum              | 0 / 4           | ⏳ Coming Soon |
-| Linked List             | 0 / 10          | ⏳ Coming Soon |
-| Recursion & Backtracking| 0 / 5           | ⏳ Coming Soon |
-| Tree                    | 0 / 15          | ⏳ Coming Soon |
-| Heap                    | 0 / 4           | ⏳ Coming Soon |
-| Stack                   | 0 / 9           | ⏳ Coming Soon |
-| Queue & Deque           | 0 / 2           | ⏳ Coming Soon |
-| Dynamic Programming     | 0 / 23          | ⏳ Coming Soon |
-| Greedy                  | 0 / 5           | ⏳ Coming Soon |
-| Graph                   | 0 / 17          | ⏳ Coming Soon |
-| Tries                   | 0 / 2           | ⏳ Coming Soon |
-| Bit Manipulation        | 0 / 4           | ⏳ Coming Soon |
+| Arrays | 3 / 13 | 🚀 In Progress |
+| Strings | 0 / 7 | ⏳ Coming Soon |
+| Sorting | 0 / 7 | ⏳ Coming Soon |
+| Searching | 0 / 8 | ⏳ Coming Soon |
+| Matrix | 0 / 6 | ⏳ Coming Soon |
+| Hashing | 0 / 9 | ⏳ Coming Soon |
+| Two Pointer Technique | 0 / 10 | ⏳ Coming Soon |
+| Prefix Sum | 0 / 4 | ⏳ Coming Soon |
+| Linked List | 0 / 10 | ⏳ Coming Soon |
+| Recursion & Backtracking | 0 / 5 | ⏳ Coming Soon |
+| Tree | 0 / 15 | ⏳ Coming Soon |
+| Heap | 0 / 4 | ⏳ Coming Soon |
+| Stack | 0 / 9 | ⏳ Coming Soon |
+| Queue & Deque | 0 / 2 | ⏳ Coming Soon |
+| Dynamic Programming | 0 / 23 | ⏳ Coming Soon |
+| Greedy | 0 / 5 | ⏳ Coming Soon |
+| Graph | 0 / 17 | ⏳ Coming Soon |
+| Tries | 0 / 2 | ⏳ Coming Soon |
+| Bit Manipulation | 0 / 4 | ⏳ Coming Soon |
 
-**Total:  / 160**
+**Total: 3 / 160**
 
-*(I’ll keep updating this table as I move forward)*  
-
----
-
-## 🌐 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/the-anirudh-adrevu)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/TheMaster112a)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheMaster112a)  
-
----
-
-⭐ If you find this repo helpful, don’t forget to **star** it and follow along my journey!  
+*(I’ll keep updating this table as I move forward)*
