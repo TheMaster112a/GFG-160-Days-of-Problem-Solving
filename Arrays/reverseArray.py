@@ -1,8 +1,0 @@
-class Solution:
-    def reverseArray(self, arr):
-        
-        arr = arr.reverse()
-        return arr
-        
-        
-        
