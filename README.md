@@ -59,4 +59,4 @@ The GFG 160 track is perfect because:
 
 **Total: 12 / 160**
 
-*(I’ll keep updating this table as I move forward)*
+*(This table will be updated as I move forward)*
