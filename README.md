@@ -38,7 +38,7 @@ The GFG 160 track is perfect because:
 | Topic                    | Problems Solved | Status |
 |-------------------------|-----------------|--------|
 | Arrays | 13 / 13 | ✅ Completed |
-| Strings | 0 / 7 | ⏳ Coming Soon |
+| Strings | 1 / 7 | 🚀 In Progress |
 | Sorting | 0 / 7 | ⏳ Coming Soon |
 | Searching | 0 / 8 | ⏳ Coming Soon |
 | Matrix | 0 / 6 | ⏳ Coming Soon |
@@ -57,6 +57,6 @@ The GFG 160 track is perfect because:
 | Tries | 0 / 2 | ⏳ Coming Soon |
 | Bit Manipulation | 0 / 4 | ⏳ Coming Soon |
 
-**Total: 13 / 160**
+**Total: 14 / 160**
 
 *(I’ll keep updating this table as I move forward)*
